@@ -1,6 +1,6 @@
 # Hi, I'm Erick! :D
 
-I'm a computer science student in IME-USP. Passionate about programming and software development, specially web. I'm always learning new things in order to improve my skills.
+I'm a computer science student in IME-USP. Passionate about programming and software development, especially web. I'm always learning new things in order to improve my skills.
 
 I'm currently working on [USPCodeLab](http://codelab.ime.usp.br), which are extracurricular in USP that focuses on entrepreneurship and innovation at the university.
 
