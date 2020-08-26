@@ -22,8 +22,8 @@ I'm currently working on [USPCodeLab](http://codelab.ime.usp.br), which are extr
 ## Github Stats
 
 <a href="https://github-readme-stats.vercel.app/api?username=erickrodrigs&show_icons=true&hide_border=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=erickrodrigs&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=erickrodrigs&show_icons=true&hide_border=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=erickrodrigs&theme=dracula">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=erickrodrigs">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickrodrigs" />
 </a>
