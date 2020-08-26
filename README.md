@@ -15,3 +15,7 @@ I'm currently working on [USPCodeLab](http://codelab.ime.usp.br), which are extr
 [instagram]: https://www.instagram.com/erickrodrigs_/
 [github]: https://github.com/erickrodrigs
 [gitlab]: https://gitlab.com/erick-rs
+
+## Github Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=erickrodrigs&show_icons=true&hide_border=true" alt="erickrodrigs's GitHub Stats" />
