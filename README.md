@@ -1,4 +1,4 @@
-# Hi, I'm Erick! :D
+# Hi there! :D
 
 I'm a computer science student at IME-USP. Passionate about programming and software development, mainly web. I'm always learning new things in order to improve my skills.
 
