@@ -25,5 +25,5 @@ I'm currently working on [USPCodeLab](http://codelab.ime.usp.br), which is an ex
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=erickrodrigs&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=erickrodrigs&hide_border=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickrodrigs&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickrodrigs&hide_border=true&langs_count=8&hide=HTML,CSS" />
 </a>
