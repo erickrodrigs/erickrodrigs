@@ -1,6 +1,6 @@
 # Hi there! :D
 
-I'm a Computer Science Student at IME-USP. Passionate about programming and software development, mainly web. I'm always learning new things in order to improve my skills. I'm currently working as a Software Development Engineer Intern at Opus Software.
+I'm a Computer Science Student at IME-USP. Passionate about programming and software development, mainly web. I'm always learning new things in order to improve my skills. I'm currently working as a Software Engineer at PagBank.
 
 ## Follow me:
 
